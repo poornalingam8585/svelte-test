@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	var name = "lingam" ;
 </script>
 
 <main>
